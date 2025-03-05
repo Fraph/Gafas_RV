@@ -1,1 +1,1 @@
-# Gafas_RV
+# Realidad Virtual - Hardware
