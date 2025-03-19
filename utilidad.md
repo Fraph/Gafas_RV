@@ -2,7 +2,7 @@
 
 Las gafas de realidad virtual tienen diversas aplicaciones en distintos campos:
 
-![utilidad](utilidad.jpg)
+![utilidad](img/utilidad.jpg)
 
 - **Entretenimiento**: Videojuegos inmersivos y experiencias interactivas.
 - **Educación**: Simulaciones y formación en entornos seguros.
