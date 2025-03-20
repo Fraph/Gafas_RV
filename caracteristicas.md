@@ -4,13 +4,13 @@
 
    Crean la ilusión de profundidad mediante dos imágenes ligeramente diferentes.
 
-![pantalla](pantalla.jpg)
+![pantalla](img/pantalla.jpg)
 
 - **Sensores de movimiento**:
 
   Detectan los movimientos de la cabeza para ajustar la imagen que se ve en la pantalla.
 
-![sensor](sensor.jpg)
+![sensor](img/sensor.jpg)
   
 - **Campo de visión amplio**:
 
@@ -26,4 +26,4 @@
 
    Algunas incluyen cámaras o sensores externos para seguir la posición del usuario en el espacio.
 
-  ![sensor1](sensor1.jpg) ![sensor2](sensor2.jpg)
+  ![sensor1](img/sensor1.jpg) ![sensor2](img/sensor2.jpg)
