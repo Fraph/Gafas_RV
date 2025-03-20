@@ -10,7 +10,7 @@
 
   Detectan los movimientos de la cabeza para ajustar la imagen que se ve en la pantalla.
 
-![sensor](img/sensor.jpg)
+![sensor](img/sensor3.jpg)
   
 - **Campo de visión amplio**:
 
